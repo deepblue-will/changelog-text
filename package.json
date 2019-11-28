@@ -1,0 +1,26 @@
+{
+  "name": "changelog-text",
+  "version": "0.0.0-development",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deepblue-will/changelog-text.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepblue-will/changelog-text/issues"
+  },
+  "homepage": "https://github.com/deepblue-will/changelog-text#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "devDependencies": {
+    "semantic-release": "^15.13.31"
+  }
+}
