@@ -20,6 +20,7 @@
     "registry": "https://npm.pkg.github.com/"
   },
   "devDependencies": {
+    "@semantic-release/changelog": "^3.0.6",
     "semantic-release": "^15.13.31"
   }
 }
